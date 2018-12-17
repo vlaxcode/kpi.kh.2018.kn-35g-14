@@ -1,0 +1,350 @@
+
+#history{
+    text-indent: 12%;
+}
+#advan{
+    text-indent:  12%;
+}
+#disadvan{
+text-indent: 12%;
+}
+#car{
+    text-indent: 12%;
+}
+#techka{
+    text-indent: 12%;
+}
+#eyes{
+    text-indent: 12%;
+}
+#kind{text-indent: 12%;}
+#appearance{text-indent: 12%;}
+#character{text-indent: 12%;}
+#kind{text-indent: 12%;}
+#lo-shi{text-indent: 12%;}
+#ter{text-indent: 12%;}
+#sharp{text-indent: 12%;}
+#chops{text-indent: 12%;}{text-indent: 12%;}
+#appearance{text-indent: 12%;}
+#character{text-indent: 12%;}
+#kind p{text-indent: 1.5em;
+    text-align: justify;
+    margin-left: 10%; /* Отступ слева */
+     margin-right: 30%; /* Отступ справа */}
+#appearance p{text-indent: 1.5em;
+    text-align: justify;
+    margin-left: 10%; /* Отступ слева */
+     margin-right: 30%; /* Отступ справа */}
+#character p{text-indent: 1.5em;
+    text-align: justify;
+    margin-left: 10%; /* Отступ слева */
+     margin-right: 30%; /* Отступ справа */}
+#kind p{text-indent: 1.5em;
+    text-align: justify;
+    margin-left: 10%; /* Отступ слева */
+     margin-right: 30%; /* Отступ справа */}
+#lo-shi p{text-indent: 1.5em;
+    text-align: justify;
+    margin-left: 10%; /* Отступ слева */
+     margin-right: 30%; /* Отступ справа */}
+#ter p{text-indent: 1.5em;
+    text-align: justify;
+    margin-left: 10%; /* Отступ слева */
+     margin-right: 30%; /* Отступ справа */}
+#sharp p{text-indent: 1.5em;
+    text-align: justify;
+    margin-left: 10%; /* Отступ слева */
+     margin-right: 30%; /* Отступ справа */}
+#chops p{text-indent: 1.5em;
+    text-align: justify;
+    margin-left: 10%; /* Отступ слева */
+     margin-right: 30%; /* Отступ справа */}
+#appearance p{text-indent: 1.5em;
+    text-align: justify;
+    margin-left: 10%; /* Отступ слева */
+     margin-right: 30%; /* Отступ справа */}
+#character p{text-indent: 1.5em;
+    text-align: justify;
+    margin-left: 10%; /* Отступ слева */
+     margin-right: 30%; /* Отступ справа */}
+#car p{
+    text-indent: 1.5em;
+    text-align: justify;
+    margin-left: 10%; /* Отступ слева */
+     margin-right: 30%; /* Отступ справа */
+}
+#techka p{
+    text-indent: 1.5em;
+    text-align: justify;
+    margin-left: 10%; /* Отступ слева */
+     margin-right: 30%; /* Отступ справа */
+}
+#eyes p{
+    text-indent: 1.5em;
+    text-align: justify;
+    margin-left: 10%; /* Отступ слева */
+     margin-right: 30%; /* Отступ справа */
+}
+#history p {
+  text-indent: 1.5em;
+    text-align: justify;
+    margin-left: 10%; /* Отступ слева */
+     margin-right: 30%; /* Отступ справа */
+}
+#advan p {
+  text-indent: 1.5em;
+    text-align: justify;
+    margin-left: 10%; /* Отступ слева */
+     margin-right: 30%; /* Отступ справа */
+}
+#disadvan p {
+  text-indent: 1.5em;
+    text-align: justify;
+    margin-left: 10%; /* Отступ слева */
+     margin-right: 30%; /* Отступ справа */
+}
+#kind p{text-indent: 1.5em;
+    text-align: justify;
+    margin-left: 10%; /* Отступ слева */
+     margin-right: 30%;}
+#appearance p{text-indent: 1.5em;
+    text-align: justify;
+    margin-left: 10%; /* Отступ слева */
+     margin-right: 30%;}
+#character p {text-indent: 1.5em;
+    text-align: justify;
+    margin-left: 10%; /* Отступ слева */
+     margin-right: 30%;}
+
+.p_header{text-indent: 13.5%;}
+
+h1{text-indent: 13.5%;}
+h1 {color: #3CB371}
+h2{text-indent: 12%;}
+
+body{background-image: url("mops.jpg");
+}
+#centerLayer{
+
+     margin-left: 10%; /* Отступ слева */
+     margin-right: 10%; /* Отступ справа */
+     background: #F8F8FF; /* Цвет фона */
+     padding: 10px; /* Поля вокруг текста */
+     width: 1000px;
+}
+.head_title{
+
+     margin-left: 0%; /* Отступ слева */
+     margin-right: 0%; /* Отступ справа */
+     background-image: url("mops_h.jpg"); /* Цвет фона */
+     background-repeat: no-repeat;
+     background-size: cover;
+     padding: 45px; /* Поля вокруг текста */
+     color: #black;
+      font-weight: bold;
+      width: 1190px;
+}
+.footer{
+
+     margin-left: 0%; /* Отступ слева */
+     margin-right: 0%; /* Отступ справа */
+     background-image: url("mops.jpg");
+     background-repeat: no-repeat;
+     background-size: cover;
+     padding: 45px; /* Поля вокруг текста */
+     margin-bottom: 0.1%;
+      text-align: center;
+      width: 1190px;
+}
+.car {
+     float: right; /* Выравнивание по правому краю */
+     margin: 10px 0 5px 5px; /* Отступы вокруг */
+    margin-right: 3%;
+    margin-top: 13%;
+}
+.eyes {
+     float: right; /* Выравнивание по правому краю */
+     margin: 10px 0 5px 5px; /* Отступы вокруг */
+    margin-right: -23%;
+    margin-top: 53%;
+}
+.techka{
+    float: right; /* Выравнивание по правому краю */
+     margin: 10px 0 5px 5px; /* Отступы вокруг */
+    margin-right: 3%;
+    margin-top: 5%;
+}
+.adv {
+     float: right; /* Выравнивание по правому краю */
+     margin: 10px 0 5px 5px; /* Отступы вокруг */
+    margin-right: 5%;
+    margin-top: 10%;
+    display: flex;
+  flex-direction: column;
+}
+.disadv {
+     float: right; /* Выравнивание по правому краю */
+     margin: 10px 0 5px 5px; /* Отступы вокруг */
+    margin-right: -21%;
+    margin-top: 48%;
+}
+.sign {
+    float: right; /* Выравнивание по правому краю */
+    border: 1px solid #333; /* Параметры рамки */
+    padding: 8px; /* Поля внутри блока */
+    margin: 10px 0 5px 5px; /* Отступы вокруг */
+    background: #f0f0f0; /* Цвет фона */ 
+    display: table; 
+    width:2%; 
+    padding:0; 
+    margin:10 0 12px 5px; 
+    border:none;
+    margin-right: 5%;
+    margin-top: 4%;
+   }
+.sign figcaption {
+    margin: 0 auto 5px; /* Отступы вокруг абзаца */
+    text-align: center;
+   }
+
+.lo_shi {
+     float: right; /* Выравнивание по правому краю */
+     margin: 10px 0 5px 5px; /* Отступы вокруг */
+    margin-right: 4%;
+    margin-top: 6%;
+}
+.ter {
+     float: right; /* Выравнивание по правому краю */
+     margin: 10px 0 5px 5px; /* Отступы вокруг */
+    margin-right: 4%;
+    margin-top: 2%;
+}
+.chops {
+     float: right; /* Выравнивание по правому краю */
+     margin: 10px 0 5px 5px; /* Отступы вокруг */
+    margin-right: 2%;
+    margin-top: 1%;
+}
+
+.last {
+     float: right; /* Выравнивание по правому краю */
+     margin: 10px 0 5px 5px; /* Отступы вокруг */
+    margin-right: 5%;
+    margin-top: -8%;
+}
+
+
+ul.ul_2 {
+    margin-left: 8%;
+
+}
+   ul li.li_2{
+    display: inline; /* Отображать как строчный элемент */
+    margin-right: 5px; /* Отступ слева */
+    padding: 3px; /* Поля вокруг текста */
+   }
+  ul li a.a_2{
+text-decoration: none; 
+font-weight: bold; 
+color: #3CB371;
+   }
+   ul li a.a_2:hover{
+text-decoration: underline; 
+   }
+   ul li.li_4{
+    display: inline; /* Отображать как строчный элемент */
+    margin-right: 5px; /* Отступ слева */
+    padding: 3px; /* Поля вокруг текста */
+   }
+  ul li a.a_4{
+text-decoration: none; 
+font-weight: bold; 
+color: #DAA520;
+   }
+   ul li a.a_4:hover{
+text-decoration: underline; 
+   }
+
+   ul.ul_3 {
+    margin-left: 8%;
+    }
+   ul li.li_3{
+    display: block;
+    list-style-type: none;
+    margin-right: 5px; /* Отступ слева */
+    padding: 3px; /* Поля вокруг текста */
+   }
+  ul li a.a_3{
+text-decoration: none; 
+font-weight: bold; 
+color: #3CB371;
+   }
+   ul li a.a_3:hover{
+text-decoration: underline; 
+   }
+
+body {margin: 0;padding: 0;font-family: sans-serif;}
+
+ul.ul_main {
+  position: absolute;
+  top: 29%;
+  left: 36%;
+  transform: translate(-50%, -50%);
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+ul li.li_main {
+  list-style: none;
+}
+ul li a.a_main {
+  position: relative;
+  float: justify;
+  display: block;
+  margin: 0 10px;
+  padding: 5px 10px;
+  color: #FFFFFF;
+  font-size: 20px;
+  text-decoration: none;
+  text-transform: none;
+  transition: 0.5s;
+  overflow: hidden;
+  font-weight:bold;
+}
+ul li a.a_main::before {
+  content: '';
+  position: absolute;
+  top: calc(50% - 2px);
+  left: -100%;
+  width: 100%;
+  height: 4px;
+  background: #3CB371;
+  transition: 0.5s;
+}
+ul li a.a_main:hover {
+  color: #fff;
+}
+ul li a.a_main:hover::before {
+  animation: animate .5s linear forwards; 
+}
+
+@keyframes animate {
+  0% {
+    top: calc(50% - 2px);
+    left: -100%;
+    height: 4px;
+    z-index: 1;
+  }
+  50% {
+    top: calc(50% - 2px);
+    left: 0;
+    height: 4px;
+    z-index: 1;
+  }
+  100% {
+    top: 0;
+    left: 0;
+    height: 100%;
+    z-index: -1;
+  }
+}
